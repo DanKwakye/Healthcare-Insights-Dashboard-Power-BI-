@@ -11,6 +11,7 @@ Treatment & Cost
 **📊 1. Patient Demographics**
 
 _Overview:_
+
 This section focuses on understanding the profile of patients diagnosed with Asthma in March 2020, providing demographic, clinical, and institutional breakdowns.
 
 Key Highlights:
