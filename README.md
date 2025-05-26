@@ -1,11 +1,5 @@
 # Healthcare-Insights-Dashboard-Power-BI-
-This repository presents an interactive Power BI dashboard project that delivers actionable insights into healthcare operations across multiple hospitals. The project is broken down into three core sections:
- Patient Demographics
- Key Trends
- Treatment & Cost
-
-1. Patient Demographics
-Overview:
+TOverview:
 This section focuses on understanding the profile of patients diagnosed with Asthma in March 2020, providing demographic, clinical, and institutional breakdowns.
 
 Key Highlights:
@@ -17,10 +11,11 @@ Doctors	59	↓ -88.6%
 Avg LOS (Days)	15.39	↓ -1.9%
 Average Age	51.58	↓ -1.1%
 
-
 Test Results Distribution:
 Normal: 0%
+
 Inconclusive: 0%
+
 Abnormal: 100%
 
 Age & Gender Distribution:
@@ -29,10 +24,11 @@ Most affected age groups: 35–49 yrs and 65–79 yrs
 Females represented a higher patient count across most age groups.
 
 Top Conditions by Hospital:
-Hospital            	Asthma Cases	Total Patients
-Johns Hopkins Hospital	16	            196
-UCLA Medical Center	    12	            50
-Cleveland Clinic	      5              	42
+Hospital	Asthma Cases	Total Patients
+Johns Hopkins Hospital	16	196
+UCLA Medical Center	12	50
+Cleveland Clinic	5	42
+
 
 
 Key Trends
