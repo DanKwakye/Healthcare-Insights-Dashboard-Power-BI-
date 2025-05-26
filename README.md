@@ -1,5 +1,7 @@
-🏥 Healthcare Insights Dashboard (Power BI)
+**🏥 Healthcare Insights Dashboard (Power BI)**
+
 This repository presents an interactive Power BI dashboard project that delivers actionable insights into healthcare operations across multiple hospitals. The project is broken down into three core sections:
+
 
 Patient Demographics
 
