@@ -1,14 +1,20 @@
 # Healthcare-Insights-Dashboard-Power-BI-
-TOverview:
+Overview:
 This section focuses on understanding the profile of patients diagnosed with Asthma in March 2020, providing demographic, clinical, and institutional breakdowns.
 
 Key Highlights:
 Metric	Value	Change vs 2019
+
 Admitted Patients	59	↓ -88.8%
+
 Rooms/Bedspace	54	↓ -81.8%
+
 Average Billing Amount	23,949.82	↓ -8.4%
+
 Doctors	59	↓ -88.6%
+
 Avg LOS (Days)	15.39	↓ -1.9%
+
 Average Age	51.58	↓ -1.1%
 
 Test Results Distribution:
