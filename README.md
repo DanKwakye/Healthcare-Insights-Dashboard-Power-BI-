@@ -14,22 +14,30 @@ Overview:
 This section focuses on understanding the profile of patients diagnosed with Asthma in March 2020, providing demographic, clinical, and institutional breakdowns.
 
 Key Highlights:
+
 Metric	Value	Change vs 2019
+
 Admitted Patients	59	↓ -88.8%
+
 Rooms/Bedspace	54	↓ -81.8%
+
 Average Billing Amount	23,949.82	↓ -8.4%
+
 Doctors	59	↓ -88.6%
+
 Avg LOS (Days)	15.39	↓ -1.9%
+
 Average Age	51.58	↓ -1.1%
 
-Test Results Distribution:
+**Test Results Distribution:**
+
 Normal: 0%
 
 Inconclusive: 0%
 
 Abnormal: 100%
 
-Age & Gender Distribution:
+**Age & Gender Distribution:**
 Most affected age groups: 35–49 yrs and 65–79 yrs
 
 Females represented a higher patient count across most age groups.
