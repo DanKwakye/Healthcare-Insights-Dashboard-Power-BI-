@@ -95,17 +95,22 @@ Billing fluctuates across the year, with noticeable peaks in June and October.
 
 Elective admissions showed the highest variability in billing.
 
-💊 3. Treatment & Cost
-Overview:
+
+
+**💊 3. Treatment & Cost**
+_*Overview:*_
+
 This section breaks down treatment costs by Length of Stay (LOS), Admission Type, Hospital, and Medical Condition, along with detailed drug usage analytics.
 
 Billing by LOS Bucket & Admission Type:
+
 LOS Bucket	Highest Contributor	Total Billing
 Extended Stay	All Admission Types	~0.3B
 Long Stay	Elective	~0.1B
 Moderate/Short	Urgent	Low Impact
 
 Top Hospitals by Total Billing:
+
 Hospital	Dominant Type	Approx Billing
 Houston Methodist	Elective	~200M
 Johns Hopkins	Emergency	~190M
@@ -119,7 +124,11 @@ Obesity	Lipitor	12,765
 
 Asthma had the lowest prescription volume among all listed conditions (3,885).
 
-📌 Insights & Recommendations
+
+
+
+📌**Insights & Recommendations**
+
 Chronic Conditions such as hypertension, diabetes, and obesity dominate treatment cost and medication use.
 
 Extended hospital stays are the largest drivers of revenue across all admission types.
@@ -128,7 +137,11 @@ Hospitals like Houston Methodist and Johns Hopkins are critical contributors to 
 
 Significant year-over-year drops in patient counts and room usage suggest possible impacts from external factors (e.g., pandemics).
 
-📂 Project Features
+
+
+
+**📂 Project Features**
+
 🔄 Dynamic filters by Year, Medical Condition, Hospital, and Admission Type
 
 📊 Multi-view reports: Demographics, Key Trends, Treatment & Cost
@@ -139,7 +152,10 @@ Significant year-over-year drops in patient counts and room usage suggest possib
 
 📅 Monthly, day-wise, and LOS-wise breakdown of hospital activity
 
-🛠️ Technologies Used
+
+
+**🛠️ Technologies Used**
+
 Power BI Desktop
 
 DAX
@@ -150,5 +166,7 @@ Interactive Visuals & Filters
 
 Dynamic KPI Cards and Matrix Tables
 
-📎 License
+
+**📎 License**
+
 This project is for educational and demonstration purposes. For commercial use or dataset access, please contact the repository owner.
