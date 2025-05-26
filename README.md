@@ -103,6 +103,7 @@ Elective admissions showed the highest variability in billing.
 
 
 **💊 3. Treatment & Cost**
+
 _*Overview:*_
 
 This section breaks down treatment costs by Length of Stay (LOS), Admission Type, Hospital, and Medical Condition, along with detailed drug usage analytics.
