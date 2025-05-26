@@ -54,6 +54,9 @@ UCLA Medical Center	12	50
 
 Cleveland Clinic	5	42
 
+
+
+
 **📈 2. Key Trends**
 
 _Overview:_
@@ -97,6 +100,8 @@ Elective admissions showed the highest variability in billing.
 
 
 
+
+
 **💊 3. Treatment & Cost**
 _*Overview:*_
 
@@ -109,6 +114,7 @@ Extended Stay	All Admission Types	~0.3B
 Long Stay	Elective	~0.1B
 Moderate/Short	Urgent	Low Impact
 
+
 Top Hospitals by Total Billing:
 
 Hospital	Dominant Type	Approx Billing
@@ -116,7 +122,9 @@ Houston Methodist	Elective	~200M
 Johns Hopkins	Emergency	~190M
 UCLA	Mixed	~100M
 
+
 Drug Usage by Condition (Top 3 Conditions):
+
 Condition	Top Drug	Total Prescriptions
 Hypertension	Aspirin	13,875
 Diabetes	Ibuprofen	13,775
