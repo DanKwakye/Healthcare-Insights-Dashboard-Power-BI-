@@ -39,21 +39,29 @@ Inconclusive: 0%
 Abnormal: 100%
 
 **Age & Gender Distribution:**
+
 Most affected age groups: 35–49 yrs and 65–79 yrs
 
 Females represented a higher patient count across most age groups.
 
 Top Conditions by Hospital:
+
 Hospital	Asthma Cases	Total Patients
+
 Johns Hopkins Hospital	16	196
+
 UCLA Medical Center	12	50
+
 Cleveland Clinic	5	42
 
-📈 2. Key Trends
-Overview:
+**📈 2. Key Trends**
+
+_Overview:_
+
 This view emphasizes overall hospital performance by analyzing patient volume, day-type admissions, and length of stay (LOS) trends.
 
-General Stats:
+*General Stats:*
+
 Metric	Value
 Admitted Patients	55,500
 Rooms/Bedspace	400
